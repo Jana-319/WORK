@@ -1,0 +1,37 @@
+h1{
+    width: 100%;
+  margin: 10px auto;
+  border-radius: 5px; 
+    border-color: grey;
+    text-align : center;
+    color: grey;
+    background : black;
+    }
+  form{
+    text-align : center;
+    padding : 20px;
+  }
+  #email , #gender, #fresher, #exp, #add{
+    color:white;
+    align : center;
+    background : black;
+    margin-bottom: 1rem;
+  }
+  #name , #age, #country, #lang{
+   align : center;
+    background : grey;
+    color : black;
+   margin-bottom: 1rem;
+  }
+  #name, #add { width: 300px;}
+  #email , #lang{ width: 400px;}
+  #country { width: 500px;}
+  #age { width: 100px}
+  button {
+  width: 100%;
+  margin: 10px auto;
+  border-radius: 5px; 
+  border-color: black;
+  background: grey; 
+  color: black;
+  }
